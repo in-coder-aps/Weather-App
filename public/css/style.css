@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../img/weather.jpg");
+    font-family: 'Pangolin', cursive;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.container{
+    height: 70vh;
+    margin-top: 5rem !important;
+}
+.form>button{
+    border-radius:50%;
+    height:50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
